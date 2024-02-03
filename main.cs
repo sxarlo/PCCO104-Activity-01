@@ -6,6 +6,7 @@ class Program {
     string Fname = "Sean";
     string Lname = "Diaz";
     string greeting = "Hello, my name is";
-    Console.WriteLine (greeting + " " + Fname + " " + Lname);;
+    int age = 19;
+    Console.WriteLine (greeting + " " + Fname + " " + Lname + " and I am " + age + " years old.");;;
   }
 }
